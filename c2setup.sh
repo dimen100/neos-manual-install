@@ -2,8 +2,8 @@
 
 set -e
 
-DEFAULT_GITHUB_OWNER="commaai"
-DEFAULT_GITHUB_BRANCH="release2"
+DEFAULT_GITHUB_OWNER="dragonpilot-community"
+DEFAULT_GITHUB_BRANCH="r2"
 
 cd /data
 rm -rf openpilot
